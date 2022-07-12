@@ -17,7 +17,7 @@ Due to the suspected academic dishonesty by the 9th grade students of Thomas Hig
 ### Thomas High School data removed 
 - Replaced with "NaNs" showing null data.
 <img width="500" alt="1  NaNs" src="https://user-images.githubusercontent.com/104927745/178400727-b597d506-2ad0-4568-b9e4-f1ba26c2ba93.PNG">
--
+
 ### Updated District Summary
 - The removal of Thomas High School did not have a significant impact on the district analysis as a whole (specifically there are only 461 students in 9th grade at Thomas High School).
 <img width="500" alt="2  updated district summary" src="https://user-images.githubusercontent.com/104927745/178400728-381fcbf8-157e-4741-aaeb-2559150ccfc3.PNG">
