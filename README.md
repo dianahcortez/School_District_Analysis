@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Overview
-The purpose of this analysis was to analyze raw data provided by the school board.  Spefifically looking at the reading and math scores, drilling down into passing percentages, how those scores varried across each district as well as each type of school.  Originally the data presented contained all schools, but after the board stated the source file of data showed evidence of academic dishonesty, the scope of analysis was extended to exclude the school in question (Thomas High School).  After removing the data in question from Thomas High School, client requested comparison analysis of what removing that data did to the final outcome.
+The purpose of this analysis was to analyze raw data provided by the school board.  Specifically looking at the reading and math scores, drilling down into passing percentages, how those scores varried across each district as well as each type of school.  Originally the data presented contained all schools, but after the board stated the source file of data showed evidence of academic dishonesty, the scope of analysis was extended to exclude the school in question (Thomas High School).  After removing the data in question from Thomas High School's 9th grade class, client requested comparison analysis of what removing that data did to the final outcome.
 
 ## Results
 
