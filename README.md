@@ -15,7 +15,7 @@ Due to the suspected academic dishonesty by the 9th grade students of Thomas Hig
 <img width="500" alt="3  thomas district summary df" src="https://user-images.githubusercontent.com/104927745/178400731-60af2b94-e59a-4d75-9619-ed6cde7f4052.PNG">
 
 ### Thomas High School data removed 
-Replaced with "NaNs" showing null data.
+- Replaced with "NaNs" showing null data.
 <img width="500" alt="1  NaNs" src="https://user-images.githubusercontent.com/104927745/178400727-b597d506-2ad0-4568-b9e4-f1ba26c2ba93.PNG">
 -
 ### Updated District Summary
