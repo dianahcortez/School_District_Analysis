@@ -50,7 +50,8 @@ Due to the suspected academic dishonesty by the 9th grade students of Thomas Hig
 <img width="500" alt="spending ranges" src="https://user-images.githubusercontent.com/104927745/178400741-18836e3d-8c8d-4e58-82b8-2fbb7d1a8fe7.PNG">
 
 ## Summary
-In removing the Thomas High School data from this revised analysis, the below changes were noticed:
+In removing the Thomas High School data from this revised analysis, no discernable change was made to the original output of the analysis.
+- There were 461 total students in the 9th grade class at Thomas High School which were removed, and the total size of data was 
 - In looking at the District Analysis, changes to all scores were less then 0.5%, thus little to no impact to school or student count.
 - Thomas High School remained at 2nd place ranking in the top 5 schools, but overall score did drop by less then 1%.
 - Scores by school size and school type did not have any drastic effect from data being removed, less then 0.1% of change.
