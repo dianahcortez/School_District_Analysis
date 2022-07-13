@@ -51,7 +51,7 @@ Due to the suspected academic dishonesty by the 9th grade students of Thomas Hig
 
 ## Summary
 In removing the Thomas High School data from this revised analysis, no discernable change was made to the original output of the analysis.
-- There were 461 total students in the 9th grade class at Thomas High School which were removed, and the total size of data was 
+- There were 461 total students in the 9th grade class at Thomas High School which were removed, and the total size of data was 39,170 across all districts/schools/grades.  Though there was suspected academic dishonesty, given the small sample size that was removed from the total data set, it is not suprising to have little impact upon the results.  The below findings were noted:
 - In looking at the District Analysis, changes to all scores were less then 0.5%, thus little to no impact to school or student count.
 - Thomas High School remained at 2nd place ranking in the top 5 schools, but overall score did drop by less then 1%.
 - Scores by school size and school type did not have any drastic effect from data being removed, less then 0.1% of change.
